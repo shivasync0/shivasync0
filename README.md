@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Shivam!
 
 🎯 A passionate learner exploring the world of *Web Development, **Java DSA, and **Machine Learning*  
-💡  love building ideas into code and solving real-world problems  
+💡  i'm currently exploring how to make ai agents and also web3
 🛠 Currently sharpening my skills in: JavaScript, DSA, and ML
 
 ---
