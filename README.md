@@ -1,18 +1,17 @@
-# 👋 Hey there, I'm Shivam!
-
-🎯 A passionate learner exploring the world of *Web Development, **Java DSA, and **Machine Learning*  
-💡  i'm currently exploring how to make ai agents and also web3
-🛠 Currently sharpening my skills in: JavaScript, DSA, and ML
+#  Hey there, I'm Shivam!
+ A passionate learner exploring the world of *Web Development, **Java DSA, and **Machine Learning*  
+  i'm currently exploring how to make ai agents and also web3
+ Currently sharpening my skills in: JavaScript, DSA, and ML
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode)
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivasync0&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -20,21 +19,21 @@
 
 ---
 
-## 🔍 Currently Working On
+##  Currently Working On
 
-- 🚧 Personal Portfolio Website
-- 💻 Java DSA Practice
-- 🤖 Learning ML & AI fundamentals
+-  Personal Portfolio Website
+-  Java DSA Practice
+-  Learning ML & AI fundamentals
 
 
-## ✨ Quote That Keeps Me Going
+##  Quote That Keeps Me Going
 
 > It’s not magic, it’s just code and curiosity.🔍
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 📧 Email: [shivamtiwari8294@gmail.com](mailto:shivamtiwari8294@gmail.com)  
-- 🐦 X (Twitter): [@shivasync_](https://twitter.com/shivasync_)
+-  Email: [shivamtiwari8294@gmail.com](mailto:shivamtiwari8294@gmail.com)  
+-  X (Twitter): [@shivasync_](https://twitter.com/shivasync_)
 
 
 
