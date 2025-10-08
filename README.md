@@ -28,7 +28,7 @@
 
 ##  Quote That Keeps Me Going
 
-> It’s not magic, it’s just code and curiosity.🔍
+> It’s not magic, it’s just code and curiosity.
 
 ##  Let's Connect
 
